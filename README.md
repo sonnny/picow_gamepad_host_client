@@ -1,6 +1,9 @@
 # picow_gamepad_host_client
 
-youtube demo
+
+[youtube demo](https://www.youtube.com/watch?v=rpb8w7buGGQ)
+
+
 
 demo of using picow for diy gamepad and also using picow for receiving the gamepad via bluetooth
 
